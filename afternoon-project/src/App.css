@@ -1,0 +1,7 @@
+.app-body {
+  height: 90vh;
+  width: 100%;
+  background-color: #222222;
+  display: flex;
+  justify-content: center;
+}

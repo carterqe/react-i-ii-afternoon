@@ -1,0 +1,10 @@
+.body-box {
+  background-color: white;
+  height: 50%;
+  width: 50%;
+  margin-top: 150px;
+  padding: 0 25px;
+}
+.current-id {
+  margin-left: 90%;
+}
